@@ -135,13 +135,6 @@ All branding references are purely inspirational.
 * 🗞️ In-world news feed
 * 🌗 Day / Night visual toggle
 
----
-
-## 🙌 Author
-
-**Aishwarya Singh**
-Final-year Computer Science student
-Focused on **frontend engineering, motion design, and immersive UI**
 
 ---
 
